@@ -1,0 +1,41 @@
+body {
+    background-color: #00b5e2;
+}
+
+block_container {
+
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: arial;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30pt;
+    font-family: arial;
+    color: black;
+    text-align: center;
+}
+
+input[type="text"]{
+      border-radius:5px;
+      -moz-border-radius:5px;
+      -webkit-border-radius:5px;
+}
+
+.list-heading {
+    font-size: 2em;
+}
+ul {
+    font-size: 1.5em;
+    margin-bottom:0
+}
+p {
+   font-size: 1.5em;
+  }
+    
